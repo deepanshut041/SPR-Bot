@@ -1,0 +1,13 @@
+Flask<=1.0.2
+jupyter<=1.0.0
+matplotlib<=3.0.2
+moviepy<=0.2.3.5
+numpy<=1.16.0
+opencv-python<=4.0.0.21
+pandas<=0.23.4
+Pillow<=5.4.1
+scikit-learn<=0.20.2
+scipy<=1.2.0
+seaborn<=0.9.0
+socketIO-client<=0.7.2
+sympy<=1.3
